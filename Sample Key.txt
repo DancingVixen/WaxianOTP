@@ -1,0 +1,55 @@
+This is a sample key. You can use random.org or rtl_entropy to generate numbers. Group these into 5 digits each and add padding for prevent recognizable patterns.
+
+63		A	
+53		B	
+19		C	
+65		D
+16		E
+86		F
+76		G
+89		H
+78		I
+89		J
+11		K
+99		L
+25		M
+58		N
+41		O
+39		P
+20		Q
+57		R
+84		S
+15		T
+22		U
+24		V
+54		W
+29		X
+56		Y
+32		Z
+~~~~~~~~~~~~~~~~~~~~~~~
+762		Send Yiff
+784		Furry
+898	 	X		
+866		hd hot 
+822 	X
+915		
+753	 	X		
+781		Borked
+747		X
+920		[.]
+825		X
+850		X	
+930		[Space]
+879
+827		X
+907		X
+769 	X
+884		100 btc to keep mouth shut
+837 	X
+886		Wanker
+840 	X
+759 	X
+740		owo
+809 	X
+899		Russia
+810		Duckio
